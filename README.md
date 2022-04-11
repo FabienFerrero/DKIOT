@@ -5,6 +5,10 @@
 
 Please use the official RFTHings repository to configure your Arduino IDE with RFThings DK Blue : https://github.com/RFThings/arduino-STM32L4
 
+## Schematic
+
+The schematic is available in /doc : https://github.com/FabienFerrero/DKIOT/blob/main/doc/LS200-007_SCHEMATIC.pdf
+
 ## Supported Library
 
 The board has been successfully tested with several SX1262 library :
