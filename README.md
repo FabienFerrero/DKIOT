@@ -1,6 +1,6 @@
 # DKIOT
 
-![alt text](http://url/to/img.png)
+![alt text](DKIOT/doc/Untitled.png)
 
 
 ## Installing Board Manager
