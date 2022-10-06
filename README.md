@@ -1,6 +1,6 @@
 # DKIOT
 
-![alt text](DKIOT/doc/Untitled.png)
+![alt text](https://github.com/FabienFerrero/DKIOT/blob/main/doc/Untitled.png)
 
 
 ## Installing Board Manager
